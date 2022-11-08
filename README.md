@@ -22,12 +22,12 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jidro&count_private=true&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jidro&langs_count=8&theme=dark&count_private=true&layout=compact&hide=javascript,html,css,CoffeeScript&card_width=280" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jidro&langs_count=8&theme=dark&count_private=true&layout=compact&hide=javascript,html,css,CoffeeScript&card_width=280&height=490 />
 </a>
 </div>
 
 <div align=center>
-<img src="http://github-readme-streak-stats.herokuapp.com?user=jidro&theme=dark&background=000000" width="280"/>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=jidro&theme=dark&background=000000" width="280" height="490" />
 </div>
 
 ------
