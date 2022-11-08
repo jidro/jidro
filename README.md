@@ -17,15 +17,17 @@ Here are some ideas to get you started:
 
 ------
 
+<div align=center>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jidro&count_private=true&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jidro&langs_count=8&theme=dark&count_private=true&layout=compact&hide=javascript,html,css,CoffeeScript&card_width=280" />
 </a>
+</div>
 
 <div align=center>
-<img src="http://github-readme-streak-stats.herokuapp.com?user=jidro&theme=dark&background=000000" width="180" height="105" width="180" height="105"/>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=jidro&theme=dark&background=000000" width="280"/>
 </div>
 
 ------
