@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align=center>
-<img src="http://github-readme-streak-stats.herokuapp.com?user=jidro&theme=dark&background=000000" />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=jidro&theme=dark&background=000000" width=280 />
 </div>
 
 ------
