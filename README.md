@@ -24,6 +24,10 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jidro&langs_count=8&theme=dark&count_private=true&layout=compact&hide=javascript,html,css,CoffeeScript&card_width=280" />
 </a>
 
+<div align=center>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=jidro&theme=dark&background=000000" width="180" height="105" width="180" height="105"/>
+</div>
+
 ------
 
 <!-- <div align="center">                                                                               -->
