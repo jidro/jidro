@@ -49,4 +49,8 @@ Here are some ideas to get you started:
 
 ------
   
+[![Security Status](https://s.murphysec.com/badge/jidro/TinyCoreLinux-Config.svg)](https://www.murphysec.com/p/jidro/TinyCoreLinux-Config)
+
+------
+  
 </div>
