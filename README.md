@@ -57,4 +57,7 @@ Here are some ideas to get you started:
 
 <img src="http://github-readme-streak-stats.herokuapp.com?user=jidro&theme=dark&background=000000" />
   
+  
+<img data-src="//i0.hdslb.com/bfs/article/db75225feabec8d8b64ee7d3c7165cd639554cbc.png" class="cut-off-4" src="//i0.hdslb.com/bfs/article/db75225feabec8d8b64ee7d3c7165cd639554cbc.png@progressive.webp">
+  
 </div>
