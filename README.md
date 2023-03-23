@@ -28,6 +28,10 @@ Here are some ideas to get you started:
 
 ------
 
+![Metrics](https://metrics.lecoq.io/jidro)
+
+------
+
 <!-- <div align="center">                                                                               -->
 <!--     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=jidro&theme=dark" />   -->
 <!-- </div>                                                                                             -->
@@ -45,10 +49,10 @@ Here are some ideas to get you started:
 <!-- <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/alfred.svg"></code> -->
 
 
-<img src="http://github-readme-streak-stats.herokuapp.com?user=jidro&theme=dark&background=000000" />
+[![Security Status](https://s.murphysec.com/badge/jidro/TinyCoreLinux-Config.svg)](https://www.murphysec.com/p/jidro/TinyCoreLinux-Config)
 
 ------
-  
-[![Security Status](https://s.murphysec.com/badge/jidro/TinyCoreLinux-Config.svg)](https://www.murphysec.com/p/jidro/TinyCoreLinux-Config)
+
+<img src="http://github-readme-streak-stats.herokuapp.com?user=jidro&theme=dark&background=000000" />
   
 </div>
