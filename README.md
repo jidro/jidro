@@ -19,6 +19,11 @@ Here are some ideas to get you started:
 
 ------
 
+![Metrics](https://metrics.lecoq.io/jidro)
+
+------
+
+  
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jidro&count_private=true&show_icons=true&theme=dark" />
 </a>
@@ -26,10 +31,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jidro&langs_count=8&theme=dark&count_private=true&layout=compact&hide=javascript,html,css,CoffeeScript&card_width=280" />
 </a>
 
-------
-
-![Metrics](https://metrics.lecoq.io/jidro)
-
+  
 ------
 
 <!-- <div align="center">                                                                               -->
